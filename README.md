@@ -18,16 +18,18 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brbrov&theme=github)
 
-<div style='clear: right; display: inline-block'>
+<div style='display: flex; margin: 0 auto; justify-content: space-between'>
+<div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brbrov&theme=vue)
 
 </div>
 
-<div style='clear: left; display: inline-block'>
+<div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brbrov&theme=solarized)
 
+</div>
 </div>
 
 </div>
