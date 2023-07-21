@@ -2,7 +2,7 @@
 <img src="./image/Hi.gif" height="32" alt=''/></h1>
 <h3 align="center">ᴀɴᴅ ɪ'ᴍ ᴊᴜɴɪᴏʀ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʙᴇʟᴀʀᴜꜱ</h3>
 <hr>
-<div>
+<div style='margin: 0 auto'>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,12 +18,13 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brbrov&theme=github)
 
-<div style='display: inline-block'>
+<div style='clear: right; display: inline-block'>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brbrov&theme=vue)
 
 </div>
-<div style='display: inline-block'>
+
+<div style='clear: left; display: inline-block'>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brbrov&theme=solarized)
 
