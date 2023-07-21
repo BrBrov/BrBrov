@@ -2,7 +2,7 @@
 <img src="./image/Hi.gif" height="32" alt=''/></h1>
 <h3 align="center">ᴀɴᴅ ɪ'ᴍ ᴊᴜɴɪᴏʀ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʙᴇʟᴀʀᴜꜱ</h3>
 <hr>
-<div style='margin: 0 auto'>
+<div align='center'>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
