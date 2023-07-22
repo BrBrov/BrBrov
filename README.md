@@ -18,7 +18,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brbrov&theme=github)
 
-<div style='display: flex; margin: 0 auto; justify-content: space-between; flex-direction: row'>
+<div align='center'>
 <div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brbrov&theme=vue)
