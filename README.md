@@ -4,7 +4,7 @@
 <hr>
 <div align='center'>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,json,sass,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,sass,markdown)](https://github.com/Jurredr/github-widgetbox)
 
 <hr>
 
