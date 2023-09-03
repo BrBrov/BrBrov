@@ -4,7 +4,7 @@
 <hr>
 <div align='center'>
 
-### [My portfolio](export default interface SummaryInfo)
+### [My portfolio](https://portfolio-brbrov.vercel.app/)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,sass,angular,markdown)](https://github.com/Jurredr/github-widgetbox)
 
