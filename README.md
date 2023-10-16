@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Henadzi Vasukovich
 <img src="./image/Hi.gif" height="32" alt=''/></h1>
-<h3 align="center">ᴀɴᴅ ɪ'ᴍ ᴊᴜɴɪᴏʀ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʙᴇʟᴀʀᴜꜱ</h3>
+<h3 align="center" style="color: red;">ᴀɴᴅ ɪ'ᴍ ᴊᴜɴɪᴏʀ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʙᴇʟᴀʀᴜꜱ</h3>
 <hr>
 <div align='center'>
 
@@ -16,7 +16,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brbrov&theme=github)
 
-<div align='center'>
+<div align='center' style="display: flex; justify-content: space-between;">
 <div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brbrov&theme=vue)
