@@ -1,9 +1,3 @@
-<style type="text/css">
-  .container-widget {
-    display: flex;
-    justify-content: space-between;
-  }
-</style>
 <h1 align="center">Hi there, I'm Henadzi Vasukovich
 <img src="./image/Hi.gif" height="32" alt=''/></h1>
 <h3 align="center" style="color: red;">ᴀɴᴅ ɪ'ᴍ ᴊᴜɴɪᴏʀ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʙᴇʟᴀʀᴜꜱ</h3>
@@ -22,18 +16,31 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brbrov&theme=github)
 
-<div align='center' class="container-widget">
+<div align='center'>
+<table>
+<tbody>
+<tr>
+<td>
 <div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brbrov&theme=vue)
 
 </div>
-
+</td>
+<td>
 <div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brbrov&theme=solarized)
 
 </div>
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+
 </div>
 
 </div>
