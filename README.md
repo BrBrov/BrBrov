@@ -17,7 +17,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brbrov&theme=github)
 
 <div align='center'>
-<table>
+<table border='none'>
 <tbody>
 <tr>
 <td>
