@@ -17,7 +17,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brbrov&theme=github)
 
 <div align='center'>
-<table>
+<table >
 <tbody border='none'>
 <tr>
 <td>
@@ -28,11 +28,11 @@
 </div>
 </td>
 <td>
-<div>
+<div align='center'>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brbrov&theme=solarized)
 
-</div>
+</div align='center'>
 </td>
 
 </tr>
