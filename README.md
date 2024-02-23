@@ -6,7 +6,7 @@
 
 ### [My portfolio](https://portfolio-brbrov.vercel.app/)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,sass,angular,nodejs)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,react,angular,nodejs)](https://github.com/Jurredr/github-widgetbox)
 
 <hr>
 
